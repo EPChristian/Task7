@@ -1,0 +1,38 @@
+2025-04-30 19:07:36 ERROR com.example.Main - Деление на ноль, 
+java.lang.ArithmeticException: Деление на ноль
+	at com.example.Main.main(Main.java:21)
+2025-04-30 19:07:36 ERROR com.example.Main - Ошибка
+2025-04-30 19:08:22 ERROR com.example.Main - Деление на ноль 
+java.lang.ArithmeticException: Деление на ноль
+	at com.example.Main.main(Main.java:21)
+2025-04-30 19:08:22 ERROR com.example.Main - Ошибка
+2025-04-30 19:33:58 ERROR com.example.Main - Ошибка
+2025-04-30 19:34:19 ERROR com.example.Main - Произошла ошибка: Деление на ноль
+java.lang.ArithmeticException: Деление на ноль
+	at com.example.Main.main(Main.java:20)
+2025-04-30 19:34:19 ERROR com.example.Main - Ошибка
+2025-04-30 19:36:01 ERROR com.example.Main - Ошибка
+2025-04-30 19:36:11 ERROR com.example.Main - Произошла ошибка: Деление на ноль
+java.lang.ArithmeticException: Деление на ноль
+	at com.example.Main.main(Main.java:20)
+2025-04-30 19:36:11 ERROR com.example.Main - Ошибка
+2025-04-30 19:42:26 ERROR com.example.Main - Ошибка
+2025-04-30 19:42:33 ERROR com.example.Main - Произошла ошибка: Деление на ноль
+java.lang.ArithmeticException: Деление на ноль
+	at com.example.Main.main(Main.java:20)
+2025-04-30 19:42:33 ERROR com.example.Main - Ошибка
+2025-04-30 19:51:43 ERROR com.example.Main - Ошибка
+2025-04-30 19:51:51 ERROR com.example.Main - Произошло деление на ноль: 
+java.lang.ArithmeticException: Ошибка: деление на ноль
+	at com.example.Main.main(Main.java:21)
+2025-04-30 19:51:51 ERROR com.example.Main - Ошибка
+2025-04-30 19:53:29 ERROR com.example.Main - Ошибка
+2025-04-30 19:53:41 ERROR com.example.Main - Произошло деление на ноль: 
+java.lang.ArithmeticException: Ошибка: деление на ноль
+	at com.example.Main.main(Main.java:21)
+2025-04-30 19:53:41 ERROR com.example.Main - Ошибка
+2025-04-30 19:59:42 ERROR com.example.Main - Ошибка
+2025-04-30 20:00:06 ERROR com.example.Main - Произошло деление на ноль: 
+java.lang.ArithmeticException: Ошибка: деление на ноль
+	at com.example.Main.main(Main.java:21)
+2025-04-30 20:00:06 ERROR com.example.Main - Ошибка
